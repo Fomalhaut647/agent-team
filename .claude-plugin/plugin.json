@@ -7,8 +7,8 @@
     "email": "fomalhaut@stu.pku.edu.cn"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Fomalhaut647/Claude-Code-Plugins/tree/main/plugins/agent-team",
-  "repository": "https://github.com/Fomalhaut647/Claude-Code-Plugins",
+  "homepage": "https://github.com/Fomalhaut647/agent-team",
+  "repository": "https://github.com/Fomalhaut647/agent-team",
   "keywords": [
     "agent-team",
     "multi-agent",

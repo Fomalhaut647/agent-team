@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-code-plugins",
-  "description": "Fomalhaut647's personal Claude Code plugin marketplace.",
+  "name": "agent-team-dev",
+  "description": "Development marketplace for the agent-team Claude Code plugin.",
   "owner": {
     "name": "Fomalhaut647",
     "email": "fomalhaut@stu.pku.edu.cn"
@@ -10,13 +10,14 @@
     {
       "name": "agent-team",
       "description": "Two subskills for Claude Code agent team coordination — agent-team:lead orchestrates a team, agent-team:teammate guides each worker. Covers inbox sync protocol, no-nested-teams constraint, spawn templates, and the shutdown sequence. Optional reference docs layer the superpowers + code-review development workflow on top.",
+      "version": "0.1.0",
       "author": {
         "name": "Fomalhaut647",
         "email": "fomalhaut@stu.pku.edu.cn"
       },
       "category": "productivity",
-      "source": "./plugins/agent-team",
-      "homepage": "https://github.com/Fomalhaut647/Claude-Code-Plugins/tree/main/plugins/agent-team"
+      "source": "./",
+      "homepage": "https://github.com/Fomalhaut647/agent-team"
     }
   ]
 }
