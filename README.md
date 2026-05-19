@@ -1,5 +1,18 @@
 # agent-team
 
+> **This repository has moved and is archived.**
+>
+> Active development now lives in the [`Fomalhaut647/plugins`](https://github.com/Fomalhaut647/plugins) marketplace, under [`plugins/agent-team`](https://github.com/Fomalhaut647/plugins/tree/main/plugins/agent-team). Please file issues and PRs there.
+>
+> To install the latest version:
+>
+> ```
+> /plugin marketplace add Fomalhaut647/plugins
+> /plugin install agent-team@fomalhaut647-plugins
+> ```
+>
+> The install snippet below (using `Fomalhaut647/agent-team`) still works against this archived snapshot but will not receive updates.
+
 A Claude Code plugin that gives you two subskills for coordinating long-running multi-agent teams, plus optional reference docs for layering the `superpowers` development workflow on top.
 
 - **Primitive skills** (`agent-team:lead` / `agent-team:teammate`) cover the team mechanism itself — `TeamCreate`, spawn rules, inbox sync, shutdown sequence — independent of any particular development methodology.
